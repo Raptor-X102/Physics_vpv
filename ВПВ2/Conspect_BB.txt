@@ -1,0 +1,195 @@
+Theoretical Basis for the Proposed Equation of State.
+The kinetic theory is founded on the hypothesis that a gas consists
+of continually moving molecules or atoms, whose velocities are dis
+tributed according to certain laws; from which it is shown that the
+pressure and density of the gas are uniform throughout the interior.
+From the thermodynamic and experimental viewpoints, however, it
+is the pressure at the boundary which is of interest, and in general
+this will differ from that in the interior. In the case of actual gases,
+for given conditions of temperature and density, the pressure in the
+interior will depend, among other things, upon the forces which act
+between the molecules and upon their dimensions, and at the boundary
+this pressure will be modified by the field of force set up by the action
+of these intermolecular forces. It is customary to consider the effects
+of the forces in the interior and at the boundary as independent,
+so that the net pressure is that existent in the body of the gas dimin
+ished by an amount determined by the field at the boundary, although
+rigorously these two effects are perhaps not independent. Following
+the usual custom, the measured pressure of a gas can be written as
+the difference of two terms, one of which arises from the kinetic
+energy possessed by the gas, and the other from its potential energy,
+P = Pkin. - Pcoh.
+where pkin is the kinetic pressure and pcoh, is the so-called cohesive
+pressure. These two terms will be considered separately.
+
+(a) Kinetic Pressure.
+A number of methods are available for the calculation of this
+pressure, among which may be mentioned the method of general
+dynamics,12 the method of collisions,12 the method of the mean free
+path,13 and that employing the Clausius virial.14 In the case of an
+ideal gas, namely one in which the molecules are infinitesimally small,
+perfectly elastic, and in which there are no intermolecular forces,
+these methods lead readily to the result that p = pRT where p is
+the density of the gas. A simple method, due to Phillips,15 of obtain
+ing this relation is to consider an imaginary plane in the interior of
+a vessel containing a perfect gas and to evaluate the time rate of
+transfer of momentum, J?, across unit area of this plane. It is easily
+shown I i = pRT. In the case of an actual gas, the transfer of
+momentum is not the same, and the theoretical deductions of Claus
+ius,16 Lorentz,17 van der Waals,18 Boltzmann,19 Jeans,20 van Laar,21
+etc. have all shown that it is greater than for a perfect gas. On
+general considerations, Phillips has pointed out that the transfer of
+momentum is greater for any gas in which intermolecular forces
+exist regardless of whether these forces consist of repulsion or attrac
+tion, regardless of the law of such forces, and further independent of
+the size of the molecules, which may be infinitesimal.
+The method which Phillips22 proposed for the evaluation of the
+volume function ty (V) of Equation (1) can be applied with slight
+modifications to the present case. Consider a thin section of the
+fluid between parallel planes which are in the interior of the fluid
+and which are a distance dx apart, where dx is the x-component of
+the distance travelled in the time dt by a molecule of class A (i. e.
+those possessing velocities between u and u + du). The kinetic
+pressure is equal to the total rate of transfer of momentum across
+unit area of one of these planes (called the reference plane) due to
+the passage of molecules of all classes, the arithmetic sum of the
+momenta of the molecules being taken regardless of the direction
+of passage through the plane.
+Consider now the molecules of class A contained in a cylinder of
+unit area and length dx, the two ends of which lie in the parallel
+planes; their total momenta are Vimu2dt where vi is the number of
+molecules of this class in unit volume. If, in the time dt, vi molecules
+of class A pass through the end of the cylinder lying in the reference
+plane, the contribution to the pressure would be \>\RT and when sum
+mated for all typed of molecules the result for the kinetic pressure
+
+would be pRT.23 In the case that the molecules of the gas attract
+or repel each other (due to the existence of intermolecular forces)
+th? passage of momentum is greater than this value. For, during
+the time, dt, which must be long enough for a large number of mole
+cules to cross the reference plane so as to give an average value, a
+certain fraction of the molecules which have already passed through
+the plane will be reflected and pass through again, due to their inter
+action with other molecules. This reflection will occur across all
+boundaries of the cylinder equally in both directions and so will not
+affect the distribution in the cylinder. But the momentum of the
+reflected molecules must be included in any method for the calculation
+of the pressure. Hence, due to the reflection of the molecules through
+the reference plane (which may be any plane in the interior of the
+fluid) the value pRT must be increased, in the ratio of the number
+of molecules which actually pass through the boundary to the number
+in the cylinder. If r is the average value of the "reflection" for all
+classes of molecules, there is obtained for the true rate of transfer of
+momentum (Ia) the relation
+Ia= PRT(l + r) (6)
+If the density of the gas is small so that the molecules act independ
+ently as reflectors, the fraction reflected is proportional to the density,
+and hence r = pB so that Equation (6) becomes
+Ia = Pkin = RT/V[V+B] (7)
+This expression was first deduced by Lorentz24 from the Claus
+virial. If the density is such that this simple assumption of indep
+ent reflection is not valid, and the reflecting power per molecul
+interfered with by those around it, B will not be constant but w
+be dependent upon the density, and the simplest form for this seco
+order correction is a linear function of the density. Under the
+conditions
+B = Bo (1 - bP) (8)
+and (7) becomes
+Pkin = RT/V^2[V+B0(1-b/V)] (9)In the treatment thus far, the assumption has been made that the
+time of encounter between the molecules is independent of the kinetic
+
+energy, or in other words, of the temperature. That this is not strictly
+valid can be seen from general considerations. When two slowly
+moving molecules encounter one another, there is a tendency for
+them to move under the influence of each other for an appreciable
+length of time due to the intermolecular forces between them. This
+has the effect of decreasing the number of independent aggregates
+in the system* and hence simulates association or aggregation. At
+low temperatures the number of such slowly moving molecules is
+greater than at higher temperatures and a correction must be made
+for this. Clausius25 attempted to account for this effect by making
+the cohesive pressure term vary as the reciprocal temperature.
+Boltzmann,26 Gibbs,27 and Keyes and Taylor28 have all treated
+aggregation by a modification of the kinetic pressure term, as have
+also Boynton and Bramley.29 The variation of the average time of
+encounter with the temperature has the same effect as a change in
+the average molecular weight of the gas and hence the gas constant
+R may be considered to depend upon the temperature and density,
+since the latter also affects the number of encounters and hence the
+number of molecules which can be considered as independent. In
+a former publication, the authors,30 using a method somewhat analo
+gous to that employed by Keyes and Taylor, modified R in the following
+manner :
+R' =R(1- m/V e^{n}/T)
+where m and n are constants, R the usual perfect gas constant and Rf
+is its analogue in the equation of state of an aggregating gas. This
+relation was shown to reproduce the experimental data in a satis
+factory manner, but was not convenient due to the use of an exponen
+tial function of the temperature. A complete treatment of the relation
+of the degree of aggregation to the temperature has not been given,
+but in general it can be assumed that to the first approximation the
+variation in the number of independent aggregates due to the effect
+on the average time of encounter is directly proportional to the
+density and inversely proportional to some power of the absolute
+temperature, so that R' becomes
+R' = R[1-f(V,T)] = R[1-c/VT^n] (10)
+From a study of the experimental data, it has been found that n = 3
+gives a very satisfactory reproduction of the measurement
+the introduction of this modification into Equation (9) leads to the
+complete expression for the kinetic pressure,
+Pkin = (RT(1-c/VT^3))/V^2[V+B0(1-b/V)] (11)
+(b) Cohesive Pressure.
+It has been pointed out by Phillips31 that whatever may be the
+law of force between the molecules, the potential energy will be
+directly proportional to the density for a given mass of gas, provided
+only that the law of force is independent of the density and that the
+force decreases with distance with sufficient rapidity for integrals
+having infinite limits to converge. Under these conditions the
+potential energy may be written
+E = Ap= A/V
+and differentiation with respect to the volume gives the cohesive
+pressure
+Pcoh = - dE/dV = A/V^2
+which is the usual expression obtained by van der Waals anb! Lorentz.
+In general, the forces between electrical systems are dependent
+upon the dielectric constant of the medium. Therefore Phillips
+considers that, if the molecules can be considered as substantially
+rigid electrical systems, the molecular forces which give rise to the
+cohesive pressure are affected by the dielectric constant k of the
+gas, and since this varies with density it must be introduced into (12).
+The cohesive pressure is therefore given by the relation
+An
+Pcoh. = A0/kV^2 (13)
+The dielectric constant of a gas is related to the density by the Lorentz
+equation
+(k-1)/(k+2) = C/V
+k = (V+2C)/(V-C)
+Substitution of this value of k into (13) and neglecting all powers of
+density higher than the first in the expansion gives
+Pcoh = A0/V^2(1-3C/V + ....)
+= A0/V^2(1-a/V)
+The preceding method used for evaluating the variation of the
+quantity A (of Equation 12) with the density could have been applied
+to B, and would have given the same form of relation as assumed in
+(8).
+Combination of (11) and (14) gives the complete equation of state,
+p = RT(1-c/VT^3)/V^2[V+B0(1-b/V)]- A0/V^2(1-a/V) (15)
+which is Equation (2) written in extended form.
+In the deduction of (15), general physical considerations have
+been presented rather than detailed computation founded on the
+assumption of certain laws for the distribution of velocities and for
+the forces acting between the molecules. The first reason for this
+choice is that the utility of an equation of state depends largely upon
+its ability to reproduce the measured pressure-volume-temperature
+data and to give accurate values for the thermodynamic derivatives,
+and hence in the evaluation of the specific form of functions used
+much consideration was given to the representation of the experi
+mental measurements. In the second place, (15) differs from the
+Lorentz equation of state, which has been deduced in a rigorous
+manner from the general laws of kinetic theory, only in that the three
+second order constants a, b and c have been introduced.
+The proposed equation rests upon the two main assumptions that
+the kinetic and cohesive pressures can be treated separately and that
+the law of force (the specific form of which does not enter into the
+treatment) shall be such that it will diminish rapidly with distance.
+Both of these assumptions are common to the treatment of a large
